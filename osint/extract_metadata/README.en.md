@@ -20,7 +20,9 @@ pip install Pillow
 
 ## Usage
 
-python extract_metadata.py image.jpg
+```bash
+python extract_metadata.py imagen.jpg
+```
 
 - `image.jpg` → path to the image file you want to analyze.
 
