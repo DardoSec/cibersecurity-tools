@@ -19,20 +19,6 @@ To use a script, follow the README or instructions inside the respective folder.
 
 ---
 
-## Project Structure
-
-ciphers/
-    caesar_cipher.py
-    vigenere_cipher.py
-encoding/
-    base64_encode.py
-    hex_decode.py
-osint/
-    extract_metadata.py
-README.md
-
----
-
 ## Goals
 - Teach basic cybersecurity concepts in a practical way.
 - Provide hands-on tools for cryptography and data encoding.
