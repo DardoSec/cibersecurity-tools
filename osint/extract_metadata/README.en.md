@@ -14,7 +14,9 @@ Ideal for educational purposes, digital forensics, and learning about image meta
 
 Install Pillow with:
 
+```bash
 pip install Pillow
+```
 
 ---
 
