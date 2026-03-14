@@ -32,6 +32,7 @@ python extract_metadata.py imagen.jpg
 
 ## Example Output
 
+```bash
 File: image.jpg
 
 Camera: Canon EOS 80D
@@ -43,7 +44,7 @@ Longitude: -56.1645
 
 Google Maps:
 https://maps.google.com/?q=-34.9011,-56.1645
-
+```
 ---
 
 ## Main Features
