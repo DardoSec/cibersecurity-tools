@@ -19,20 +19,6 @@ Para usar un script o ejecutable, sigue el README o las instrucciones dentro de 
 
 ---
 
-## Estructura del Proyecto
-
-ciphers/
-    caesar_cipher.py
-    vigenere_cipher.py
-codification/
-    base64_encode.py
-    hex_decode.py
-osint/
-    extract_metadata.py
-README.md
-
----
-
 ## Objetivos
 - Enseñar conceptos básicos de ciberseguridad de forma práctica.
 - Proporcionar herramientas prácticas para criptografía y codificación de datos.
