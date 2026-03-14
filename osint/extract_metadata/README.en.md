@@ -52,13 +52,6 @@ https://maps.google.com/?q=-34.9011,-56.1645
 
 ---
 
-## Project Structure
-
-extract_metadata.py
-README.md
-
----
-
 ## Warning
 - Works only with images that contain EXIF metadata.
 - Respect privacy and legal boundaries when analyzing others' photos.
