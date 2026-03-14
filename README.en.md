@@ -14,7 +14,7 @@ Includes historical ciphers, encoding/decoding techniques, and hands-on tools to
 ---
 
 ## Usage
-Each folder contains scripts or exercises with instructions.
+Each folder contains scripts or executables with instructions.
 To use a script, follow the README or instructions inside the respective folder.
 
 ---
