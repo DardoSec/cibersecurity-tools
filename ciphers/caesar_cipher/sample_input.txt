@@ -1,0 +1,5 @@
+FLAG{this_is_a_test_input_for_ctf}
+HELLO_world!
+flag123
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
