@@ -1,4 +1,4 @@
-# XOR Cipher Tool
+# Herramienta de cifrado XOR
 
 ## Descripción
 
