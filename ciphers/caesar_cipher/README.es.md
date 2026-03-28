@@ -10,17 +10,17 @@ No maneja caracteres con tildes ni caracteres especiales Unicode.
 
 ---
 
-## Uso
+# Uso
 
-# Cifrar
+## Cifrar
 
 caesar.exe -e <shift> <archivo_entrada.txt> <archivo_salida.txt>  
 
-# Descifrar
+## Descifrar
 
 caesar.exe -d <shift> <archivo_entrada.txt> <archivo_salida.txt>  
 
-# Mostrar ayuda
+## Mostrar ayuda
 
 caesar.exe -h | --help                                           
 
@@ -36,7 +36,7 @@ caesar.exe -d 3 cifrado.txt mensaje_descifrado.txt
 
 ---
 
-## Compilación
+# Compilación
 
 Con GCC / MinGW:
 
@@ -50,7 +50,7 @@ Con Visual Studio:
 
 ---
 
-## Notas pedagógicas
+# Notas pedagógicas
 
 - Ideal para CTFs educativos y prácticas de criptografía básica.  
 - Muestra cómo funcionan los cifrados de sustitución simples.  
@@ -58,6 +58,6 @@ Con Visual Studio:
 
 ---
 
-## Autor / Referencia
+# Autor / Referencia
 
-Proyecto educativo de ciberseguridad.
+D. García, computer technology teacher. Proyecto educativo de ciberseguridad.
