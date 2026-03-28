@@ -17,17 +17,17 @@ How it works:
 
 ---
 
-## Usage:
+# Usage:
 
-# Encrypt
+## Encrypt
 
 vigenere_cipher.exe -e <key> <input.txt> <output.txt>   
 
-# Decrypt
+## Decrypt
 
 vigenere_cipher.exe -d <key> <input.txt> <output.txt>   
 
-# Show help
+## Show help
 
 vignere_cipher.exe -h | --help
 
@@ -36,13 +36,15 @@ vignere_cipher.exe -h | --help
 vigenere_cipher.exe -e hola sample_input.txt output.txt
 vigenere_cipher.exe -d hola output.txt original.txt
 
-## Notes:
+---
+
+# Notes:
 
 - The key repeats cyclically over the text.
 - Ideal for experimenting in CTFs and learning how Vigenère combines key and text.
 - Works with all ASCII letters; numbers, spaces, and symbols remain unchanged.
 
-## Included files:
+# Included files:
 
 - vigenere_cipher.exe → program executable
 - sample_input.txt → test input file (poem stanza)
@@ -51,6 +53,6 @@ vigenere_cipher.exe -d hola output.txt original.txt
 
 ---
 
-## Author / Reference
+# Author / Reference
 
 D. García. Computer technology teacher. Educational cybersecurity project.
