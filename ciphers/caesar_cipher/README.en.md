@@ -10,17 +10,17 @@ It does not handle accented letters or special Unicode characters.
 
 ---
 
-## Usage
+# Usage
 
-# Encrypt
+## Encrypt
 
 caesar.exe -e <shift> <input_file.txt> <output_file.txt>  
 
-# Decrypt
+## Decrypt
 
 caesar.exe -d <shift> <input_file.txt> <output_file.txt>  
 
-# Show help
+## Show help
 
 caesar.exe -h | --help                                    
 
@@ -36,7 +36,7 @@ caesar.exe -d 3 encrypted.txt decrypted.txt
 
 ---
 
-## Compilation
+# Compilation
 
 With GCC / MinGW:
 
@@ -50,7 +50,7 @@ With Visual Studio:
 
 ---
 
-## Educational Notes
+# Educational Notes
 
 - Ideal for educational CTFs and basic cryptography exercises.  
 - Demonstrates how simple substitution ciphers work.  
@@ -58,6 +58,6 @@ With Visual Studio:
 
 ---
 
-## Author / Reference
+# Author / Reference
 
-Educational cybersecurity project.
+D. García. Computer technology teacher. Educational cybersecurity project.
