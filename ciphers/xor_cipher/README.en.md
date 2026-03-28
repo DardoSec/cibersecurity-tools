@@ -15,29 +15,29 @@ It is an educational tool for CTFs and learning basic cryptography.
 
 ---
 
-# Usage:
+## Usage:
 
 xor_cipher.exe -e <key> <input.txt> <output.txt>   # Encrypt
 xor_cipher.exe -d <key> <input.txt> <output.txt>   # Decrypt
 
-# Examples:
+## Examples:
 
 xor_cipher.exe -e K sample_input.txt output.txt
 xor_cipher.exe -d K output.txt original.txt
 
-# Notes:
+## Notes:
 
 - Key is case-sensitive (K ≠ k).
 - Works with all ASCII letters, numbers, spaces, and symbols.
 - Perfect for experimenting in CTFs and learning how XOR transforms data.
 
-# Included files:
+## Included files:
 
 - xor_cipher.exe → program executable
 - sample_input.txt → test input file (poem stanza)
 - README_es.md → Spanish documentation
 - README_en.md → English documentation
 
-# Author
+## Author
 
 D. García, computer technology teacher.
