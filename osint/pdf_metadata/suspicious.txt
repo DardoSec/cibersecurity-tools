@@ -1,0 +1,8 @@
+password
+secret
+token
+api_key
+key
+credential
+auth
+flag
